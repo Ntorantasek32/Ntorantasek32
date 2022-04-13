@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ntorantasek32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... C/CPP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>SIMPLE</h1>
 
 <!---
 Ntorantasek32/Ntorantasek32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
