@@ -1,6 +1,6 @@
-<h1>SIMPLE</h1>
-
-<!---
-Ntorantasek32/Ntorantasek32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me
+-----
+* like to keep everything simple
+* ♥ coding
+* <p style="text-decoration: line-through;">(This profile is going to rewrite soon because im still learning markdown...</p> 
+;)
