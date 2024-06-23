@@ -5,7 +5,7 @@
 
 # ✨ Now interested in / Currently Studying 
 * 🚩 CTF / Capture The Flag (currently interested in PWN)
-* 🖥️ CS courses ()
+* 🖥️ CS courses
 
 * <p style="text-decoration: line-through;">(This profile is going to rewrite soon because im still learning markdown...</p> 
 
