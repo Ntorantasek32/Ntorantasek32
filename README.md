@@ -1,5 +1,5 @@
 # 🤗 About me
-* a guy who think a lot about / is a bit interested in in the society, philosophy, etc..
+* a guy who is a little bit interested in thinking a lot about the society, philosophy, etc..
 * like to keep everything simple
 * ♥ coding
 
